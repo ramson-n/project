@@ -1,5 +1,5 @@
 # КОНСОЛЬНАЯ ИГРА 21 СПИЧКА
-![Логотип игры](https://github.com/ramson-n/project/blob/12d7d69be4b82b5f700b85047438ec80a050d944/logo.jpeg)
+![Логотип игры](https://github.com/ramson-n/project/blob/11102f9dca20a9281c2ea56ff7b9d59d0f19efaa/logo.jpeg)
 ## Правила
 - В кучке 21 спичка.
 - За один ход можно взять от 1 до 3 спичек (не больше остатка).
